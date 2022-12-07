@@ -1,0 +1,15 @@
+D:\Questions\String Solution\StringQestion\StringQestion\bin\Debug\net6.0\StringQestion.exe
+D:\Questions\String Solution\StringQestion\StringQestion\bin\Debug\net6.0\StringQestion.deps.json
+D:\Questions\String Solution\StringQestion\StringQestion\bin\Debug\net6.0\StringQestion.runtimeconfig.json
+D:\Questions\String Solution\StringQestion\StringQestion\bin\Debug\net6.0\StringQestion.dll
+D:\Questions\String Solution\StringQestion\StringQestion\bin\Debug\net6.0\StringQestion.pdb
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.csproj.AssemblyReference.cache
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.AssemblyInfoInputs.cache
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.AssemblyInfo.cs
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.csproj.CoreCompileInputs.cache
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.dll
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\refint\StringQestion.dll
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.pdb
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\StringQestion.genruntimeconfig.cache
+D:\Questions\String Solution\StringQestion\StringQestion\obj\Debug\net6.0\ref\StringQestion.dll
